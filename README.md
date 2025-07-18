@@ -1,3 +1,25 @@
-# Programas en JAVA de Heurísticas de Temas Selectos de Optimización
+# 📊 Heurísticas en Java para Temas Selectos de Optimización
 
-Este repositorio contiene implementaciones en Java de diversas heurísticas utilizadas en el campo de Temas Selectos de Optimización. Estas heurísticas se utilizan para resolver problemas de optimización combinatoria y son ampliamente aplicables en una variedad de dominios.
+Este repositorio reúne implementaciones en Java de diversas heurísticas enfocadas en problemas de optimización combinatoria, cubriendo tópicos avanzados y selectos dentro del área.
+
+Las soluciones presentadas pueden aplicarse a múltiples dominios, facilitando la resolución eficiente de problemas complejos mediante métodos heurísticos.
+
+---
+
+## 🚀 Contenido
+
+- Algoritmos clásicos y modernos de optimización heurística  
+- Ejemplos prácticos y código modular para fácil adaptación  
+- Enfoque en calidad, rendimiento y escalabilidad
+
+---
+
+## 🧩 Tecnologías
+
+- Lenguaje: Java  
+- Estructuras de datos y algoritmos optimizados  
+- Código documentado para facilitar el aprendizaje
+
+---
+
+¿Quieres que te ayude a agregar instrucciones de uso o ejemplos para cada heurística?
