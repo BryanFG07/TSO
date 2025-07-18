@@ -18,8 +18,6 @@ Las soluciones presentadas pueden aplicarse a múltiples dominios, facilitando l
 
 - Lenguaje: Java  
 - Estructuras de datos y algoritmos optimizados  
-- Código documentado para facilitar el aprendizaje
 
 ---
 
-¿Quieres que te ayude a agregar instrucciones de uso o ejemplos para cada heurística?
